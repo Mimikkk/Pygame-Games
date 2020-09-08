@@ -1,5 +1,4 @@
 from engine.imports import *
-from game_objects.text import *
 
 class Time(object):
     def __init__(self):
